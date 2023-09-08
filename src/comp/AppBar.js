@@ -9,7 +9,7 @@ export default function AppBarIem(props) {
             <AppBar position='static' sx={{ bgcolor: '#ffffff' }} >
                 <Toolbar>
                     <Typography variant='h6' component='div' sx={{ flexGrow: 0.01, color: '#0096ff'}} >
-                        ChatBot Template in ReactJS
+                        AI ChatBot Template in ReactJS and MUI
                     </Typography>
                 </Toolbar>
             </AppBar>
